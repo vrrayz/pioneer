@@ -166,10 +166,6 @@
     "include": [
       "/#/",
       "/#/working-groups"
-    ],
-    "inlineCss": true,
-    "puppeteerArgs": [
-      "--no-sandbox"
     ]
   }
 }
